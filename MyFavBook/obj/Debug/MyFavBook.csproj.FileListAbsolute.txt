@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MyFavBook\MyFavBook\bin\Debug\MyFavBook.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MyFavBook\MyFavBook\bin\Debug\MyFavBook.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MyFavBook\MyFavBook\bin\Debug\MyFavBook.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MyFavBook\MyFavBook\obj\Debug\MyFavBook.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MyFavBook\MyFavBook\obj\Debug\MyFavBook.pdb
